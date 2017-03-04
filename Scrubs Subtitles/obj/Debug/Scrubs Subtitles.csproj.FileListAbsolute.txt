@@ -1,0 +1,9 @@
+c:\users\tristan\documents\visual studio 2015\Projects\Scrubs Subtitles\Scrubs Subtitles\bin\Debug\Scrubs Subtitles.exe.config
+c:\users\tristan\documents\visual studio 2015\Projects\Scrubs Subtitles\Scrubs Subtitles\bin\Debug\Scrubs Subtitles.exe
+c:\users\tristan\documents\visual studio 2015\Projects\Scrubs Subtitles\Scrubs Subtitles\bin\Debug\Scrubs Subtitles.pdb
+c:\users\tristan\documents\visual studio 2015\Projects\Scrubs Subtitles\Scrubs Subtitles\obj\Debug\Scrubs Subtitles.csprojResolveAssemblyReference.cache
+c:\users\tristan\documents\visual studio 2015\Projects\Scrubs Subtitles\Scrubs Subtitles\obj\Debug\Scrubs_Subtitles.Form1.resources
+c:\users\tristan\documents\visual studio 2015\Projects\Scrubs Subtitles\Scrubs Subtitles\obj\Debug\Scrubs_Subtitles.Properties.Resources.resources
+c:\users\tristan\documents\visual studio 2015\Projects\Scrubs Subtitles\Scrubs Subtitles\obj\Debug\Scrubs Subtitles.csproj.GenerateResource.Cache
+c:\users\tristan\documents\visual studio 2015\Projects\Scrubs Subtitles\Scrubs Subtitles\obj\Debug\Scrubs Subtitles.exe
+c:\users\tristan\documents\visual studio 2015\Projects\Scrubs Subtitles\Scrubs Subtitles\obj\Debug\Scrubs Subtitles.pdb
